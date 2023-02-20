@@ -1,4 +1,4 @@
-package CycleTask;
+package homework.day1.cycletask;
 
 public class CycleWhile {
     public static void main(String[] args) {

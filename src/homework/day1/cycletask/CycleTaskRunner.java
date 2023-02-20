@@ -1,6 +1,5 @@
-package CycleTask;
+package homework.day1.cycletask;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class CycleTaskRunner {

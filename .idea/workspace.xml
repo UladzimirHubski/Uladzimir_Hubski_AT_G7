@@ -4,34 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="FirstTask P4">
-      <change afterPath="$PROJECT_DIR$/src/BaseTask/Bee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseTask/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseTask/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseTask/Pineapple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseTask/Souce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsObjectsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassiveFirstLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassiveMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassiveMultFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassivePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassiveReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassiveSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleMassiveSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleTaskRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CycleTask/CycleWhile.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Change file structure, fix issues">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Bee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Pineapple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Souce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsIfRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsObjectsRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsPrimitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsPrimitiveRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsStringRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIfRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIfRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitiveRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitiveRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturnRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturnRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsStringRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTask/TrainMethodsStringRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/Bee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/Mouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/Obstacle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/Pineapple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/Souce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIfRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsObjectsRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitiveRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturnRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsReturnRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsStringRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveFirstLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveFirstLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveMultFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveMultFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassivePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassivePrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveReverseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleTaskRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleTaskRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +63,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="50def59b-a68b-42b8-893e-688f929fcdf8" />
+        <option name="url" value="git@github.com:UladzimirHubski/Uladzimir_Hubski_AT_G7.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -57,58 +85,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Владимир/Uladzimir_Hubski_AT_G7",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владимир\Uladzimir_Hubski_AT_G7\src\homework\cycletask" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="BaseTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TrainMethodsReturnRunner">
-    <configuration name="CycleMassive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CycleTask.CycleMassive" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CycleTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CycleMassivePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CycleTask.CycleMassivePrint" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CycleTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TrainMethodsIfRunner">
     <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CycleTask.CycleTaskRunner" />
+      <option name="MAIN_CLASS_NAME" value="homework.day1.cycletask.CycleTaskRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CycleTask.*" />
+          <option name="PATTERN" value="homework.day1.cycletask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +124,37 @@
       </method>
     </configuration>
     <configuration name="TrainMethodsIfRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaseTask.TrainMethodsIfRunner" />
+      <option name="MAIN_CLASS_NAME" value="homework.day1.basetask.TrainMethodsIfRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaseTask.*" />
+          <option name="PATTERN" value="homework.day1.basetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainMethodsObjectsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day1.basetask.TrainMethodsObjectsRunner" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day1.basetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainMethodsPrimitiveRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day1.basetask.TrainMethodsPrimitiveRunner" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day1.basetask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +163,11 @@
       </method>
     </configuration>
     <configuration name="TrainMethodsReturnRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaseTask.TrainMethodsReturnRunner" />
+      <option name="MAIN_CLASS_NAME" value="homework.day1.basetask.TrainMethodsReturnRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaseTask.*" />
+          <option name="PATTERN" value="homework.day1.basetask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TrainMethodsReturnRunner" />
         <item itemvalue="Application.TrainMethodsIfRunner" />
+        <item itemvalue="Application.TrainMethodsObjectsRunner" />
+        <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
+        <item itemvalue="Application.TrainMethodsReturnRunner" />
         <item itemvalue="Application.CycleTaskRunner" />
-        <item itemvalue="Application.CycleMassive" />
-        <item itemvalue="Application.CycleMassivePrint" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +267,7 @@
     <MESSAGE value="FirstTaskP2" />
     <MESSAGE value="FirstTask P3" />
     <MESSAGE value="FirstTask P4" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirstTask P4" />
+    <MESSAGE value="Change file structure, fix issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change file structure, fix issues" />
   </component>
 </project>
