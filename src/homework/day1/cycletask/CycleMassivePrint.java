@@ -1,16 +1,14 @@
 package homework.day1.cycletask;
 
-import java.util.Arrays;
-
 public class CycleMassivePrint {
-
-CycleTaskRunner cycleTaskRunner = new CycleTaskRunner();
     CycleMassive cycleMassive = new CycleMassive();
 
+    public void arrayPrint() {
+        cycleMassive.setArray();
+        for (int i = 0; i < cycleMassive.array.length; i++) {
+            System.out.print(cycleMassive.array[i]);
 
-    public void cyclePrint() {
-
-        System.out.println(Arrays.toString(cycleMassive.getArray()));
-
+        }
     }
 }
+
