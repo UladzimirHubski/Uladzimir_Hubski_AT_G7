@@ -5,48 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Change file structure, fix issues">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Bee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Pineapple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/Souce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsIfRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsObjectsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsPrimitive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsPrimitiveRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsStringRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day2/arraysum/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/boxing/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/boxing/Glass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/Bee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/Mouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/Obstacle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/Pineapple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/Souce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsIfRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsObjects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsObjectsRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsPrimitiveRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsReturnRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/basetask/TrainMethodsReturnRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseTask/TrainMethodsStringRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveFirstLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveFirstLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveMultFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveMultFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassivePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassivePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveReverseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleMassiveSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleMassiveSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleTaskRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleTaskRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CycleTask/CycleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day1/cycletask/CycleWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676456633922</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Change file structure, fix issues">
+      <created>1676886317767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676886317767</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
