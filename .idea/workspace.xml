@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Change file structure for homework and classwork after revert">
-      <change afterPath="$PROJECT_DIR$/src/project/boxing/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/boxing/Glass.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Finished CycleTask">
+      <change afterPath="$PROJECT_DIR$/src/homework/day2/printMethodCow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hometask_day1_cycletask" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -70,7 +74,7 @@
       <recent name="BaseTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TrainMethodsIfRunner">
+  <component name="RunManager" selected="Application.printMethodCow">
     <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day1.cycletask.CycleTaskRunner" />
       <module name="Firsttask" />
@@ -123,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrainMethodsReturnRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day1.basetask.TrainMethodsReturnRunner" />
+    <configuration name="printMethodCow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day2.printMethodCow" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day1.basetask.*" />
+          <option name="PATTERN" value="homework.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TrainMethodsIfRunner" />
-        <item itemvalue="Application.TrainMethodsObjectsRunner" />
-        <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
-        <item itemvalue="Application.TrainMethodsReturnRunner" />
+        <item itemvalue="Application.printMethodCow" />
         <item itemvalue="Application.CycleTaskRunner" />
+        <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
+        <item itemvalue="Application.TrainMethodsObjectsRunner" />
+        <item itemvalue="Application.TrainMethodsIfRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676887647294</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Change file structure for homework and classwork after revert">
+      <created>1676888293161</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676888293161</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finished CycleTask">
+      <created>1676924173187</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676924173187</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +236,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="hometask_day1_cycletask" />
                       </list>
                     </value>
                   </entry>
@@ -236,6 +254,8 @@
     <MESSAGE value="FirstTask P3" />
     <MESSAGE value="FirstTask P4" />
     <MESSAGE value="Change file structure, fix issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change file structure, fix issues" />
+    <MESSAGE value="Change file structure for homework and classwork after revert" />
+    <MESSAGE value="Finished CycleTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished CycleTask" />
   </component>
 </project>
