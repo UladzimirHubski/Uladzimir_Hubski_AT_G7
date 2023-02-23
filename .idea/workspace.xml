@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Finished CycleTask">
-      <change afterPath="$PROJECT_DIR$/src/homework/day2/printMethodCow.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Finished printMethodCow task">
+      <change afterPath="$PROJECT_DIR$/src/homework/day3/ArrayNElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hometask_day1_cycletask" />
+        <entry key="$PROJECT_DIR$" value="hometask_day2_printMethod" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,13 +74,13 @@
       <recent name="BaseTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.printMethodCow">
-    <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day1.cycletask.CycleTaskRunner" />
+  <component name="RunManager" selected="Application.ArrayNElements">
+    <configuration name="ArrayNElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day3.ArrayNElements" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day1.cycletask.*" />
+          <option name="PATTERN" value="homework.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrainMethodsIfRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day1.basetask.TrainMethodsIfRunner" />
+    <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day1.cycletask.CycleTaskRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day1.basetask.*" />
+          <option name="PATTERN" value="homework.day1.cycletask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayNElements" />
         <item itemvalue="Application.printMethodCow" />
         <item itemvalue="Application.CycleTaskRunner" />
         <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
         <item itemvalue="Application.TrainMethodsObjectsRunner" />
-        <item itemvalue="Application.TrainMethodsIfRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676924173187</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Finished printMethodCow task">
+      <created>1677003975226</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677003975226</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +263,7 @@
     <MESSAGE value="Change file structure, fix issues" />
     <MESSAGE value="Change file structure for homework and classwork after revert" />
     <MESSAGE value="Finished CycleTask" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished CycleTask" />
+    <MESSAGE value="Finished printMethodCow task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished printMethodCow task" />
   </component>
 </project>
