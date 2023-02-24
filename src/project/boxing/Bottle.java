@@ -3,10 +3,9 @@ package project.boxing;
 import project.water.Bubbles;
 import project.water.SparklingWater;
 
-public class Box {
-
-    private double volume;
+public class Bottle {
     private SparklingWater water;
+    private double volume;
 
     public Bottle(double volume) {
         this.volume = volume;
@@ -21,9 +20,6 @@ public class Box {
     public void open() {
         water.degas();
     }
-
-
-
 
 
 }
