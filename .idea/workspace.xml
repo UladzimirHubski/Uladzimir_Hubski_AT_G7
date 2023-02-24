@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="completed 2.1 and 2.2 tasks">
-      <change afterPath="$PROJECT_DIR$/src/homework/day3/ArrayRunner.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Refactor ArrayRunner tasks + changes">
       <change afterPath="$PROJECT_DIR$/src/project/boxing/bubbles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day3/arraysMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day3/ArraysMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677179962491</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Refactor ArrayRunner tasks + changes">
+      <created>1677255657766</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677255657766</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +279,7 @@
     <MESSAGE value="Finished CycleTask" />
     <MESSAGE value="Finished printMethodCow task" />
     <MESSAGE value="completed 2.1 and 2.2 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed 2.1 and 2.2 tasks" />
+    <MESSAGE value="Refactor ArrayRunner tasks + changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor ArrayRunner tasks + changes" />
   </component>
 </project>
