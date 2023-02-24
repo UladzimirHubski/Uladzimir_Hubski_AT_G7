@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Change file structure for homework and classwork after revert">
-      <change afterPath="$PROJECT_DIR$/src/project/boxing/bubbles.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Project( Bubbles created and changed location)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="project_day5_bubble" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,10 +58,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Владимир/Backup Java/22.17.22.02.2023/Uladzimir_Hubski_AT_G7/src/homework/day2/ArraySum.java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Владимир/Backup Java/Uladzimir_Hubski_AT_G7&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
@@ -74,9 +74,22 @@
       <recent name="BaseTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.arraysMethods">
-    <configuration name="ArrayNElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day3.ArrayNElements" />
+  <component name="RunManager" selected="Application.ArrayRunner">
+    <configuration name="ArrayRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day3.ArrayRunner" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day3.ArraysMethods" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
@@ -114,19 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraysMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day3.arraysMethods" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="printMethodCow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day2.printMethodCow" />
       <module name="Firsttask" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arraysMethods" />
-        <item itemvalue="Application.ArrayNElements" />
+        <item itemvalue="Application.ArrayRunner" />
+        <item itemvalue="Application.ArraysMethods" />
+        <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
         <item itemvalue="Application.printMethodCow" />
         <item itemvalue="Application.CycleTaskRunner" />
-        <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677003975226</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="completed 2.1 and 2.2 tasks">
+      <created>1677179962490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677179962491</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +271,7 @@
     <MESSAGE value="Change file structure for homework and classwork after revert" />
     <MESSAGE value="Finished CycleTask" />
     <MESSAGE value="Finished printMethodCow task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished printMethodCow task" />
+    <MESSAGE value="completed 2.1 and 2.2 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed 2.1 and 2.2 tasks" />
   </component>
 </project>
