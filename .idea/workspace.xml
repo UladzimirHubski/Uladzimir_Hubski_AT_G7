@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Project (Bottle completed)">
-      <change afterPath="$PROJECT_DIR$/src/project/runner/Runner.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Project (Runner completed)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/boxing/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day3/ArrayRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day3/ArrayRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day3/ArraysMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day3/ArraysMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +76,9 @@
       <recent name="BaseTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="ArraysMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day3.ArraysMethods" />
+  <component name="RunManager" selected="Application.ArrayRunner">
+    <configuration name="ArrayRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day3.ArrayRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayRunner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
         <item itemvalue="Application.printMethodCow" />
         <item itemvalue="Application.CycleTaskRunner" />
-        <item itemvalue="Application.ArraysMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677262066554</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Project (Runner completed)">
+      <created>1677262544387</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677262544387</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +297,7 @@
     <MESSAGE value="completed 2.1 and 2.2 tasks" />
     <MESSAGE value="Project (Sparkling water completed)" />
     <MESSAGE value="Project (Bottle completed)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project (Bottle completed)" />
+    <MESSAGE value="Project (Runner completed)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project (Runner completed)" />
   </component>
 </project>
