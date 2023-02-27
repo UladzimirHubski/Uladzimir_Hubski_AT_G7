@@ -4,10 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Project (Runner completed)">
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask (small fixes)">
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/Matter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Copter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Rocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Moped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Can.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Mug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Carrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Chammomile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Insects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Maylily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Mosquito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Potato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Radish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Raven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Vegetables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Vertebrata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Diesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Water.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day3/ArrayRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day3/ArrayRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day3/ArraysMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day3/ArraysMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day1/day1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayRunner" />
-        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.printMethodCow" />
         <item itemvalue="Application.CycleTaskRunner" />
+        <item itemvalue="Application.ArrayRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -268,12 +301,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hometask_day5_refactorarays" />
+                        <option value="homework_day7_createClasses" />
                       </list>
                     </value>
                   </entry>
