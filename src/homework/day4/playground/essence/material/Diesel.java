@@ -1,4 +1,4 @@
 package homework.day4.playground.essence.material;
 
-public class Diesel {
+public class Diesel implements Pourable, Powerable {
 }

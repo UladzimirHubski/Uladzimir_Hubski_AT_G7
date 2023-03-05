@@ -1,4 +1,4 @@
 package homework.day4.playground.essence.craft.hand;
 
-public class Can extends Container {
+public class Can extends Container implements Storable {
 }

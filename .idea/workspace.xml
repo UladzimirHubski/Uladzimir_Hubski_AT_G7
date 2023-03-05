@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence packages and classes">
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Rideable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Transportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Storable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crowlable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Pourable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Powerable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/Matter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/Matter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Bottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Can.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Can.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Insects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Insects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Vertebrata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Vertebrata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Mosquito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Mosquito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Water.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +301,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="homework_day10_Essensepart2.3" />
                       </list>
                     </value>
                   </entry>

@@ -1,8 +1,9 @@
 package homework.day4.playground.essence.creatures;
 
-public class Beetle extends Insects {
+public class Beetle extends Insects implements Crowlable {
     public String nameBeetle;
-    public int massBeetle =22;
+    public int massBeetle = 22;
+
     public String getNameBeetle() {
         return nameBeetle;
     }
