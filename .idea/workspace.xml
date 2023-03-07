@@ -4,15 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence 3 part">
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/utils/DirectionGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/processors/FlyableProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/runners/FlyableProcessorRunner.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence packages and classes">
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Rideable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Transportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Storable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crowlable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Pourable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Powerable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/Flyable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Bottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Can.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Can.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Fly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Mosquito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Mosquito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Water.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +92,13 @@
       <recent name="BaseTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FlyableProcessorRunner">
-    <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day1.cycletask.CycleTaskRunner" />
+  <component name="RunManager" selected="Application.ArrayRunner">
+    <configuration name="ArrayRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day3.ArrayRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day1.cycletask.*" />
+          <option name="PATTERN" value="homework.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyableProcessorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day4.playground.runners.FlyableProcessorRunner" />
+    <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day1.cycletask.CycleTaskRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day4.playground.runners.*" />
+          <option name="PATTERN" value="homework.day1.cycletask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,7 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlyableProcessorRunner" />
+        <item itemvalue="Application.ArrayRunner" />
         <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.printMethodCow" />
@@ -290,7 +301,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Homework_day4_task4" />
+                        <option value="homework_day10_Essensepart2.3" />
                       </list>
                     </value>
                   </entry>
