@@ -4,29 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence 4 part">
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crawlable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/utils/CoordinatesGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/utils/DistanceGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/processors/CrawlableProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/processors/RideableProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/processors/TransportableProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/runners/CrawlableProcessorRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/runners/RideableProcessorRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day4/playground/runners/TransportableProcessorRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/allDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/allInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/allLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/allLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/stringTaskRunners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Rideable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Rideable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Transportable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Transportable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crowlable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/runners/FlyableProcessorRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/runners/FlyableProcessorRunner.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence 7 part">
+      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allInts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/stringTaskRunners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/stringTaskRunners.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677528671103</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Hometask Playground essence 7 part">
+      <created>1678522893830</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678522893830</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +322,8 @@
     <MESSAGE value="Project (Bottle completed)" />
     <MESSAGE value="Project (Runner completed)" />
     <MESSAGE value="Hometask Playground essence packages and classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hometask Playground essence packages and classes" />
+    <MESSAGE value="Hometask Playground essence 7 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hometask Playground essence 7 part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

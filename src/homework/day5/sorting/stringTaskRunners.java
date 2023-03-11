@@ -4,14 +4,14 @@ public class stringTaskRunners {
 
     public static void main(String[] args) {
 
-//        allLetters allLetters = new allLetters();
-//        allLetters.printLetters("big text big text1");
+//        Task1_1 Task1_1 = new Task1_1();
+//        Task1_1.printLetters("big text big text1");
 //
-//        allDuplicates allDuplicates = new allDuplicates();
-//        allDuplicates.printDuplicates("big text big world small world small");
+//        Task1_2 Task1_2 = new Task1_2();
+//        Task1_2.printDuplicates("big text big world small world small");
 
-        allLog allLog = new allLog();
-        allLog.printLog("access_log.2020.09.07 212.168.101.5 granted " +
+        Task1_4 Task1_4 = new Task1_4();
+        Task1_4.printLog("access_log.2020.09.07 212.168.101.5 granted " +
                 "access_log.2020.09.07 212.168.101.6 denied " +
                 "access_log.2020.09.07 212.168.101.6 denied " +
                 "access_log.2020.09.07 212.168.122.6 denied ");

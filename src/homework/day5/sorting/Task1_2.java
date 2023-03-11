@@ -1,6 +1,6 @@
 package homework.day5.sorting;
 
-public class allDuplicates {
+public class Task1_2 {
 
     public void printDuplicates(String text) {
         String res;
