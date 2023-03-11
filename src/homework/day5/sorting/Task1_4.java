@@ -2,7 +2,7 @@ package homework.day5.sorting;
 
 import java.util.Arrays;
 
-public class allLog {
+public class Task1_4 {
     public void printLog(String text) {
         String[] array = text.split(" ");
         String[] array1 = new String[array.length];
