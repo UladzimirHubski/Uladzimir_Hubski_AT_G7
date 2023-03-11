@@ -15,4 +15,7 @@ public class Vehicle extends Matter implements Transportable, Rideable {
         Name = name;
     }
 
+    public void drive(String direction) {
+        System.out.printf("I am %s, my name is %s and I am driving to %s \n", getClass().getSimpleName(), this.Name, direction);
+    }
 }
