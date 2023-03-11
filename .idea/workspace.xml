@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence 7 part">
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allInts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/allLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/runners/FlyableProcessorRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day4/playground/runners/FlyableProcessorRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/stringTaskRunners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/stringTaskRunners.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Homework_day4_task5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +46,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Lj0a6tRVdFUuKSkDhGzyirZ8yE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -69,7 +70,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -81,12 +82,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.stringTaskRunners">
-    <configuration name="CycleTaskRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day1.cycletask.CycleTaskRunner" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.runner.Runner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day1.cycletask.*" />
+          <option name="PATTERN" value="project.runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.runner.Runner" />
+    <configuration name="Runners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day6.Runners" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project.runner.*" />
+          <option name="PATTERN" value="day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,10 +150,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.stringTaskRunners" />
+        <item itemvalue="Application.Runners" />
         <item itemvalue="Application.TrainMethodsPrimitiveRunner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.printMethodCow" />
-        <item itemvalue="Application.CycleTaskRunner" />
       </list>
     </recent_temporary>
   </component>
