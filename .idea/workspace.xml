@@ -4,82 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence 7 part">
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day3/ColorContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day3/ColorContainerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day3/ConstantContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day3/ConstantContainerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day3/MyColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day3/ObjectContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day3/ObjectContainerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day4/GenericContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day4/GenericContainerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day5/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day5/ReadFileRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day6/StopSL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day7/task1/PrintConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day7/task2/FIleInFilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day7/task3/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day7/task4/CreateFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day3/day3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/Flyable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/Matter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Rideable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/Transportable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Aircraft.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Copter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Plane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/air/Rocket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Moped.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Motorbike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/field/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Bottle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Can.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Container.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Mug.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/craft/hand/Storable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Beetle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Carrot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Chammomile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crawlable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Crocodile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Flowers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Fly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Insects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Maylily.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Mosquito.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Pigeon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Plant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Potato.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Radish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Raven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Rose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Vegetables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/creatures/Vertebrata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Diesel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Petrol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Pourable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Powerable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/material/Water.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/utils/CoordinatesGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/utils/DirectionGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/essence/utils/DistanceGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/processors/CrawlableProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/processors/FlyableProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/processors/RideableProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/processors/TransportableProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/runners/CrawlableProcessorRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/runners/FlyableProcessorRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/runners/RideableProcessorRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day4/playground/runners/TransportableProcessorRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/Task1_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day5/sorting/stringTaskRunners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day5/sorting/StringTaskRunners.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  create files part">
+      <change beforePath="$PROJECT_DIR$/src/homework/day7/task3/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day7/task3/ReadFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="homework_day11_print_tasks" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -156,7 +82,20 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadFile">
+  <component name="RunManager" selected="Application.CreateFiles">
+    <configuration name="CreateFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day7.task4.CreateFiles" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day7.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FIleInFilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day7.task2.FIleInFilder" />
       <module name="Firsttask" />
@@ -196,19 +135,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFileRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day5.ReadFileRunner" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classwork.day5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StopSL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classwork.day6.StopSL" />
       <module name="Firsttask" />
@@ -224,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateFiles" />
         <item itemvalue="Application.ReadFile" />
         <item itemvalue="Application.FIleInFilder" />
         <item itemvalue="Application.PrintConsole" />
         <item itemvalue="Application.StopSL" />
-        <item itemvalue="Application.ReadFileRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -360,12 +286,38 @@
       <option name="project" value="LOCAL" />
       <updated>1678529254993</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Hometask Playground essence 7 part">
+      <created>1679129024365</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679129024365</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Hometask  create files part">
+      <created>1679130744318</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679130744318</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Hometask  create files part">
+      <created>1679132906826</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679132906826</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="27df5a31-43e4-4d9d-8650-d62dee54dc04">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -379,7 +331,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="homework_day12_print_tasks" />
                       </list>
                     </value>
                   </entry>
@@ -388,6 +340,11 @@
             </State>
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="27df5a31-43e4-4d9d-8650-d62dee54dc04" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -406,7 +363,8 @@
     <MESSAGE value="Project (Runner completed)" />
     <MESSAGE value="Hometask Playground essence packages and classes" />
     <MESSAGE value="Hometask Playground essence 7 part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hometask Playground essence 7 part" />
+    <MESSAGE value="Hometask  create files part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hometask  create files part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
