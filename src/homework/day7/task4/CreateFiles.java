@@ -9,6 +9,7 @@ public class CreateFiles {
         Scanner scanner = new Scanner(System.in);
         String folder = "folder";
         String file = "file.txt";
+        System.out.println("Введите пусть создания папки в формате C:\\Users\\Владимир\\test");
         while (scanner.hasNext()) {
             String path = scanner.nextLine();
             if (path == "stop") {
@@ -21,5 +22,7 @@ public class CreateFiles {
                 }
             }
         }
+
+
     }
 }
