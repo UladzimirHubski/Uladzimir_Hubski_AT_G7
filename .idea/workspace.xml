@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  create files part">
-      <change beforePath="$PROJECT_DIR$/src/homework/day7/task3/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day7/task3/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/ListArLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/ListHashTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/ListIter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/ListText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework_day11_print_tasks" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,13 +86,13 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CreateFiles">
-    <configuration name="CreateFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day7.task4.CreateFiles" />
+  <component name="RunManager" selected="Application.MapHash">
+    <configuration name="ListArLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.ListArLi" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day7.task4.*" />
+          <option name="PATTERN" value="day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIleInFilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day7.task2.FIleInFilder" />
+    <configuration name="ListHashTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.ListHashTree" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day7.task2.*" />
+          <option name="PATTERN" value="day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day7.task1.PrintConsole" />
+    <configuration name="ListIter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.ListIter" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day7.task1.*" />
+          <option name="PATTERN" value="day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.day7.task3.ReadFile" />
+    <configuration name="ListText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.ListText" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.day7.task3.*" />
+          <option name="PATTERN" value="day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopSL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day6.StopSL" />
+    <configuration name="MapHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.MapHash" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day6.*" />
+          <option name="PATTERN" value="day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateFiles" />
-        <item itemvalue="Application.ReadFile" />
-        <item itemvalue="Application.FIleInFilder" />
-        <item itemvalue="Application.PrintConsole" />
-        <item itemvalue="Application.StopSL" />
+        <item itemvalue="Application.MapHash" />
+        <item itemvalue="Application.ListHashTree" />
+        <item itemvalue="Application.ListIter" />
+        <item itemvalue="Application.ListArLi" />
+        <item itemvalue="Application.ListText" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +335,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="homework_day12_print_tasks" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
