@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  create files part">
-      <change afterPath="$PROJECT_DIR$/src/day7/ListArLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/ListHashTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/ListIter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/ListText.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  Hash Map">
+      <change afterPath="$PROJECT_DIR$/src/day7/ColorMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/NameMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/VegetablesMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7/MapHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/MapHash.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +86,9 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapHash">
-    <configuration name="ListArLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.ListArLi" />
+  <component name="RunManager" selected="Application.VegetablesMap">
+    <configuration name="ColorMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.ColorMap" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
@@ -113,32 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.ListIter" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.ListText" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MapHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day7.MapHash" />
       <module name="Firsttask" />
@@ -152,13 +126,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NameMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.NameMap" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VegetablesMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.VegetablesMap" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VegetablesMap" />
+        <item itemvalue="Application.NameMap" />
+        <item itemvalue="Application.ColorMap" />
         <item itemvalue="Application.MapHash" />
         <item itemvalue="Application.ListHashTree" />
-        <item itemvalue="Application.ListIter" />
-        <item itemvalue="Application.ListArLi" />
-        <item itemvalue="Application.ListText" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679132906826</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Hometask  create files part">
+      <created>1679218817510</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679218817510</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Hometask  Hash Map">
+      <created>1679218883364</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679218883364</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +382,8 @@
     <MESSAGE value="Hometask Playground essence packages and classes" />
     <MESSAGE value="Hometask Playground essence 7 part" />
     <MESSAGE value="Hometask  create files part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hometask  create files part" />
+    <MESSAGE value="Hometask  Hash Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hometask  Hash Map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
