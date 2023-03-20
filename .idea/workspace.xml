@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  Hash Map">
-      <change afterPath="$PROJECT_DIR$/src/day7/ColorMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/NameMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/VegetablesMap.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  part3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/MapHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/MapHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7/VegetablesMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/VegetablesMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679218883364</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Hometask  part3">
+      <created>1679223452267</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679223452267</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +387,8 @@
     <MESSAGE value="Hometask Playground essence 7 part" />
     <MESSAGE value="Hometask  create files part" />
     <MESSAGE value="Hometask  Hash Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hometask  Hash Map" />
+    <MESSAGE value="Hometask  part3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hometask  part3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

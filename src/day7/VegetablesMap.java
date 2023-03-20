@@ -3,6 +3,8 @@ package day7;
 import java.util.ArrayList;
 import java.util.List;
 
+import static jdk.internal.net.http.common.Utils.close;
+
 public class VegetablesMap {
     static public void main(String[] args) {
         List<String> vegetables = new ArrayList<>();
@@ -38,6 +40,7 @@ public class VegetablesMap {
 
         for (int i = 0; i < vegetables.size(); i++) {
             System.out.printf(vegetables.get(i) + " ").println();
+
         }
     }
 
