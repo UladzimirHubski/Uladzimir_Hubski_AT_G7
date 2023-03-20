@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  part3">
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence 7 part">
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/VegetablesMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/VegetablesMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/day5/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day5/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTwoParamsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +92,13 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.VegetablesMap">
-    <configuration name="ColorMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.ColorMap" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="ReadFileRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day5.ReadFileRunner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="classwork.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListHashTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.ListHashTree" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.Task1" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="homework.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.MapHash" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.Task2" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="homework.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.NameMap" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.Task3" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="homework.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VegetablesMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.VegetablesMap" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day8.Task4" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="homework.day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VegetablesMap" />
-        <item itemvalue="Application.NameMap" />
-        <item itemvalue="Application.ColorMap" />
-        <item itemvalue="Application.MapHash" />
-        <item itemvalue="Application.ListHashTree" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.ReadFileRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679223452267</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Hometask Playground essence 7 part">
+      <created>1679326948635</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679326948635</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,7 +369,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -384,11 +400,11 @@
     <MESSAGE value="Project (Bottle completed)" />
     <MESSAGE value="Project (Runner completed)" />
     <MESSAGE value="Hometask Playground essence packages and classes" />
-    <MESSAGE value="Hometask Playground essence 7 part" />
     <MESSAGE value="Hometask  create files part" />
     <MESSAGE value="Hometask  Hash Map" />
     <MESSAGE value="Hometask  part3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hometask  part3" />
+    <MESSAGE value="Hometask Playground essence 7 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hometask Playground essence 7 part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
