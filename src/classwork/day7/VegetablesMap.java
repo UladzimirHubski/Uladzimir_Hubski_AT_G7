@@ -1,9 +1,8 @@
-package day7;
+package classwork.day7;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static jdk.internal.net.http.common.Utils.close;
 
 public class VegetablesMap {
     static public void main(String[] args) {

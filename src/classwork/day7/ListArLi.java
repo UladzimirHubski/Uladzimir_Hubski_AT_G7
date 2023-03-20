@@ -1,4 +1,4 @@
-package day7;
+package classwork.day7;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
