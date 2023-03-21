@@ -20,12 +20,17 @@ public class Task4 {
         cars.add("Ауди");
 
         BufferedWriter out = new BufferedWriter(new FileWriter("cars.txt"));
-        for (String i : cars) {
-            out.write("-\"" + i + "\"\n");
+        for (String car : cars) {
+            out.write("-\"" + car + "\"\n");
         }
         out.close();
 
-        cars.removeIf(s -> s.length() > 4);
+        for (int i = 0; i < cars.size(); i++) {
+            if (cars.get(i).length() > 4) {
+                cars.remove(i);
+                i--;
+            }
+        }
 
         for (String i : cars) {
             System.out.print(i + " ");

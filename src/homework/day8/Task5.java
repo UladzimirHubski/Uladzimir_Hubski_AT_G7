@@ -13,8 +13,8 @@ public class Task5 {
         countries.add("Англия");
         countries.add("Замбия");
 
-        for (String i : countries) {
-            System.out.print(i + ", ");
+        for (String country : countries) {
+            System.out.print(country + ", ");
         }
 
         for (String syllableCount : countries) {

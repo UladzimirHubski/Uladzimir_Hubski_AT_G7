@@ -12,8 +12,8 @@ public class Task3 {
         cities.add("Москва");
         cities.add("Берлин");
 
-        for (String i : cities) {
-            System.out.print(i + "\n");
+        for (String city : cities) {
+            System.out.print(city + "\n");
         }
 
         for (String syllableCount : cities) {
