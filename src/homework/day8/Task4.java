@@ -20,8 +20,8 @@ public class Task4 {
         cars.add("Ауди");
 
         BufferedWriter out = new BufferedWriter(new FileWriter("cars.txt"));
-        for (String i : cars) {
-            out.write("-\"" + i + "\"\n");
+        for (String car : cars) {
+            out.write("-\"" + car + "\"\n");
         }
         out.close();
 
