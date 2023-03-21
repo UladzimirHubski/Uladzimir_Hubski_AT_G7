@@ -13,8 +13,8 @@ public class Task1 {
         butterflies.add("Aglais io");
         butterflies.add("Common blue");
 
-        for (String i : butterflies) {
-            System.out.print("\"" + i + "\"");
+        for (String butterfly : butterflies) {
+            System.out.print("\"" + butterfly + "\"");
         }
 
         for (String syllableCount : butterflies) {
