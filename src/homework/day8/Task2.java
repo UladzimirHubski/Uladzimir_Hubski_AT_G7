@@ -33,8 +33,8 @@ public class Task2 {
 
         System.out.println("\n");
 
-        for (String i : figures) {
-            System.out.print(i + " ");
+        for (String fig : figures) {
+            System.out.print(fig + " ");
         }
     }
 }
