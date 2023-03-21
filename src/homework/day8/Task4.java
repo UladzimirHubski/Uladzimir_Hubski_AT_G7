@@ -25,7 +25,12 @@ public class Task4 {
         }
         out.close();
 
-        cars.removeIf(s -> s.length() > 4);
+        for (int i = 0; i < cars.size(); i++) {
+            if (cars.get(i).length() > 4) {
+                cars.remove(i);
+                i--;
+            }
+        }
 
         for (String i : cars) {
             System.out.print(i + " ");
