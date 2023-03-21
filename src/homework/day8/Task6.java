@@ -7,16 +7,14 @@ public class Task6 {
     public static void main(String[] args) {
         String[] bird = {"Чайка", "Дрозд", "Бусел", "Голубь", "Воробей", "Цапля"};
         List<String> birds = Arrays.asList(bird);
-        int count = 0;
-        char[] wordsR = {'а', 'я', 'у', 'ю', 'о', 'е', 'ё', 'э', 'и', 'ы'};
+//        int count = 0;
 
-        for (String i : birds) {
-            System.out.print("--" + i + "--\n");
+        for (String bird1 : birds) {
+            System.out.print("--" + bird1 + "--\n");
         }
 
-//TBD
 //        for (String syllableCount : birds) {
-//            if (syllableCount.matches("[wordsR]+")) {
+//            if (syllableCount.matches("['а', 'я', 'у', 'ю', 'о', 'е', 'ё', 'э', 'и', 'ы']")) {
 //                count++;
 //            }
 //        }
