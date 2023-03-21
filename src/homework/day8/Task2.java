@@ -13,8 +13,8 @@ public class Task2 {
         int count = 0;
 
         BufferedWriter out = new BufferedWriter(new FileWriter("figure.txt"));
-        for (String i : figures) {
-            out.write(i + "-");
+        for (String fig : figures) {
+            out.write(fig + "-");
         }
         out.close();
 
