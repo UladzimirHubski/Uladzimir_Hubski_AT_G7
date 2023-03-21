@@ -28,8 +28,8 @@ public class Task6 {
 
         System.out.println("\n");
 
-        for (String i : birds) {
-            System.out.print(i + " ");
+        for (String bird1 : birds) {
+            System.out.print(bird1 + " ");
         }
     }
 }
