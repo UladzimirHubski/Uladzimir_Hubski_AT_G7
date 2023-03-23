@@ -10,16 +10,16 @@ public class Test9 {
 
         Double[] number = {33.42, 34.3, 0.79, 2.3426, 6.8, 13.24, 5.5, 769.9};
         List<Double> numbers = Arrays.asList(number);
-        Double count = 0.0;
-        Double dotcount = 0.0;
+        double count = 0;
+        double dotcount = 0;
 
-        for (Double number1 : numbers) {
+        for (double number1 : numbers) {
             System.out.print(number1 + " ");
         }
         System.out.println();
 
         for (double doubleN : numbers) {
-            count *= doubleN;
+            count = count + doubleN;
         }
         System.out.println(count);
 
