@@ -19,11 +19,16 @@ public class Task4 {
         cars.add("Жигуль");
         cars.add("Ауди");
 
-        BufferedWriter out = new BufferedWriter(new FileWriter("cars.txt"));
-        for (String car : cars) {
-            out.write("-\"" + car + "\"\n");
+
+        try {
+            BufferedWriter out = new BufferedWriter(new FileWriter("cars.txt"));
+            for (String car : cars) {
+                out.write("-\"" + car + "\"\n");
+            }
+            out.close();
+        } catch (IOException e) {
+            System.out.println("IOException");
         }
-        out.close();
 
         for (int i = 0; i < cars.size(); i++) {
             if (cars.get(i).length() > 4) {

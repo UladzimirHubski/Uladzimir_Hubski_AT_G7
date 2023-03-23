@@ -12,11 +12,15 @@ public class Task2 {
         List<String> figures = Arrays.asList(figure);
         int count = 0;
 
-        BufferedWriter out = new BufferedWriter(new FileWriter("figure.txt"));
-        for (String fig : figures) {
-            out.write(fig + "-");
+        try {
+            BufferedWriter out = new BufferedWriter(new FileWriter("figure.txt"));
+            for (String fig : figures) {
+                out.write(fig + "-");
+            }
+            out.close();
+        } catch (IOException e) {
+            System.out.println("IOException");
         }
-        out.close();
 
         for (String syllableCount : figures) {
             if (!syllableCount.contains("и")) {
