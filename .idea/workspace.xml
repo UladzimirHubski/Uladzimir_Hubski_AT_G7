@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask  part3">
+      <change afterPath="$PROJECT_DIR$/src/day8/IMyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/MyClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/MyInterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/Runner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/part3/ClassX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/part3/IMyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/part3/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/part3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/part4/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8/task1/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/VegetablesMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/VegetablesMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="ClassWork" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,13 +94,13 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.VegetablesMap">
-    <configuration name="ColorMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.ColorMap" />
+  <component name="RunManager" selected="Application.Array1">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day8.part4.Array1" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="day8.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListHashTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.ListHashTree" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day8.Runner" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="day8.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,25 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.MapHash" />
+    <configuration name="Runner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day8.Runner1" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NameMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.NameMap" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="day8.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,13 +147,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day8.part3.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day8.part3.Runner" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day8.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array1" />
+        <item itemvalue="Application.day8.part3.Runner" />
+        <item itemvalue="Application.Runner1" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.VegetablesMap" />
-        <item itemvalue="Application.NameMap" />
-        <item itemvalue="Application.ColorMap" />
-        <item itemvalue="Application.MapHash" />
-        <item itemvalue="Application.ListHashTree" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +340,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679223452267</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Hometask  part3">
+      <created>1679289441469</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679289441469</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Hometask  part3">
+      <created>1679289558182</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679289558182</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
