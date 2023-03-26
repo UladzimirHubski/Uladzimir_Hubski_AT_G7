@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Classwork">
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/IMyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyInterface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/Runner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/ClassX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/IMyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part4/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classwork/day8/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/task1/PersonFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTwoParamsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/day8/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day8/Chair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +86,13 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task3">
-    <configuration name="ReadFileRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day5.ReadFileRunner" />
+  <component name="RunManager" selected="Application.PersonFilter">
+    <configuration name="PersonFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.day8.task1.PersonFilter" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classwork.day5.*" />
+          <option name="PATTERN" value="classwork.day8.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonFilter" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.ReadFileRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679326948635</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Classwork">
+      <created>1679812344394</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679812344394</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,6 +415,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTwoParamsRunner.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
