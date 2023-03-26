@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Hometask Playground essence 7 part">
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/day8/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/day5/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/day5/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTwoParamsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/day6/GenericMethodsInGenericClassTwoParamsRunner.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Classwork">
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/IMyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/MyInterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/Runner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/ClassX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/IMyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/part4/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/day8/task1/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -404,7 +405,8 @@
     <MESSAGE value="Hometask  Hash Map" />
     <MESSAGE value="Hometask  part3" />
     <MESSAGE value="Hometask Playground essence 7 part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hometask Playground essence 7 part" />
+    <MESSAGE value="Classwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classwork" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
