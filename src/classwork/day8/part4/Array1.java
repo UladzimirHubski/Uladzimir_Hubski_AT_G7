@@ -33,6 +33,9 @@ public class Array1 {
 
         List<String> list3 = list.stream().filter(s -> s.contains("м")).distinct().collect(Collectors.toList());
         System.out.println(list3);
+
+
+
     }
 }
 
