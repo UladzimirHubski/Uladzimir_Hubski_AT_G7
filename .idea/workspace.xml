@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Classwork">
-      <change afterPath="$PROJECT_DIR$/src/homework/day9/ButterfliesRunners.java" afterDir="false" />
+    <list default="true" id="56bddba1-c6c9-4b91-b649-dcb4ebd61a83" name="Changes" comment="Homework task1">
+      <change afterPath="$PROJECT_DIR$/src/homework/day9/FiguresRunners.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,9 +84,22 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ButterfliesRunners">
+  <component name="RunManager" selected="Application.FiguresRunners">
     <configuration name="ButterfliesRunners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.day9.ButterfliesRunners" />
+      <module name="Firsttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.day9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiguresRunners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.day9.FiguresRunners" />
       <module name="Firsttask" />
       <extension name="coverage">
         <pattern>
@@ -137,26 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classwork.day9.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classwork.day9.Task3" />
-      <module name="Firsttask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classwork.day9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FiguresRunners" />
         <item itemvalue="Application.ButterfliesRunners" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.classwork.day9.Task2" />
         <item itemvalue="Application.classwork.day9.Task1" />
-        <item itemvalue="Application.classwork.day9.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679986450763</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Homework task1">
+      <created>1679990986384</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679990986384</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +418,8 @@
     <MESSAGE value="Hometask  part3" />
     <MESSAGE value="Hometask Playground essence 7 part" />
     <MESSAGE value="Classwork" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classwork" />
+    <MESSAGE value="Homework task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework task1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
