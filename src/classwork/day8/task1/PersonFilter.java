@@ -19,6 +19,9 @@ public class PersonFilter {
 
         long c = people.stream().filter(person -> (person.sex == Person.Sex.WOMEN && person.age > 18 && person.age < 55) || (person.sex == Person.Sex.MAN && person.age > 18 && person.age < 60)).count();
         System.out.println(c);
+
+
+
     }
 }
 
